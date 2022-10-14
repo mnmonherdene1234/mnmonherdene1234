@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnmonherdene1234 || Мөнхнаст Мөнхэрдэнэ
+- 👋 Hi, I’m @mnmonherdene1234
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Programming Languages
 - 📫 Mail: mnmonherdene1234@gmail.com
