@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnmonherdene1234
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning Programming Languages
+- 🌱 I’m currently learning Programming
 - 📫 Mail: mnmonherdene1234@gmail.com
 
 <!---
